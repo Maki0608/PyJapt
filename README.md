@@ -1,6 +1,6 @@
 # Lexer and LR parser generator  "PyJapt"
 
-## Installation
+## Installation en tus nalgas
 
 ```sh
 pip install pyjapt
