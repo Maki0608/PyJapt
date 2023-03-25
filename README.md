@@ -1,4 +1,4 @@
-# Lexer and LR parser generator  "PyJapt"
+# Lexer and LR parser generator  "PyJapt" el abogado del choco es millonario
 
 ## Installation
 
